@@ -1,4 +1,4 @@
-These are the sample HTML files that correspond with the Marketing Cloud Trailhead module, **Custom Preference Center Development**, being released in December 2021. They are branded based on a fictional bank, Cumulus.
+These are the sample HTML files that correspond with the Marketing Cloud Trailhead module, **Custom Preference Center Development**, released in February 2022. They are branded based on a fictional bank, Cumulus.
 
 Files include: 
 1) **Unsubscribe Confirmation:** Processing page for a one-click unsubscribe link from an email.
